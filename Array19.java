@@ -6,7 +6,6 @@ public class Array19 {
         System.out.println("Program Menghitung IP Semester");
         System.out.println("==============================");
         String[] mataKuliah = {
-            "Pancasila",
             "Konsep Teknologi Informasi",
             "Critical Thinking dan Problem Solving",
             "Matematika Dasar",
